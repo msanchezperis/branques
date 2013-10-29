@@ -3,6 +3,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 
+//d'això en farem una branca
+//comentem més la nova branca
 public class FraseGit {
 
 	public static void main(String[] args) {
@@ -79,9 +81,6 @@ public class FraseGit {
 		return resultat;
 
 	}
-	
-	
-
 	
 	//classe de l'objecte lletra
 	public class Lletra {
